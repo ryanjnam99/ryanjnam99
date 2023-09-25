@@ -5,6 +5,7 @@ Interested in: App/Website Development, Full Stack Development, Virtual Simulati
 Educational Background: Bachelor's Degree in Psychology at Whitman College
 Hobbies: NFL, MLB, NHL, Premier League Football,
 
+Languages: HTML, JavaScript, CSS, Node, Mern, Java, Python
 
 
 <!-- 
