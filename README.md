@@ -1,11 +1,17 @@
 ### Hi there 👋
 Name: Ryan Nam
+
 Currently Working On: Pizza Website and E-Commerce using Java
+
 Interested in: App/Website Development, Full Stack Development, Virtual Simulation
+
 Educational Background: Bachelor's Degree in Psychology at Whitman College
+
 Hobbies: NFL, MLB, NHL, Premier League Football,
 
 Languages: HTML, JavaScript, CSS, Node, Mern, Java, Python
+
+
 
 
 <!-- 
